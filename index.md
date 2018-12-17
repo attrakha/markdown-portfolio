@@ -2,5 +2,13 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+[GitHub](http://github.com)
+
+<br>
+
+[GitHub](http://github.com)
+
+<br>
+
+[GitHub](http://github.com)
 
